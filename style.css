@@ -1,0 +1,229 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'exo 2', sans-serif;
+}
+.container{
+	text-align: center;
+	position: relative;
+}
+.container span{
+	color:black;
+	text-transform: uppercase;
+	display: block;
+}
+.text1{
+	font-size: 30px;
+	font-weight: 500;
+	letter-spacing: 10px;
+	margin-bottom: 20px;
+	position: relative;
+	animation: text 3s 1;
+}
+.text2{
+	font-size: 20px;
+	color:whitesmoke;
+}
+@keyframes text{
+0% {
+	color:black;
+	margin-bottom: -10px;
+}
+30%{
+	letter-spacing: 25px;
+	margin-bottom: -10px;
+}
+85%{
+	letter-spacing: 8px;
+	margin-bottom: -10px;
+}
+}
+body{
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background: linear-gradient(135deg, rgb(252, 118, 118),rgb(255, 205, 112),rgb(253, 253, 107),rgb(137, 250, 137),rgb(150, 150, 253),rgb(252, 132, 252));
+	animation: animate 1.5s linear infinite;
+}
+
+.clock{
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	overflow: hidden;
+	border-radius: 25px;
+	border: 20px solid #111;
+	
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.clock:after{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	
+}
+
+.clock:before{
+	content: '';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 20px;
+	height: 20px;
+	background:black;
+
+	border-radius: 50%;
+}
+
+.num{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	text-align: center;
+	font-size: 2rem;
+	font-weight: 700;
+	padding: 18px;
+}
+
+.num:after{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 5px;
+	height: 15px;
+	background: black;
+	
+}
+
+.num1{
+	transform: rotate(30deg) ;
+}
+.num1 div{
+	transform: rotate(-30deg);
+}
+
+.num2{
+	transform: rotate(60deg);
+}
+.num2 div{
+	transform: rotate(-60deg);
+}
+
+.num3{
+	transform: rotate(90deg);
+}
+.num3 div{
+	transform: rotate(-90deg);
+}
+
+.num4{
+	transform: rotate(120deg);
+}
+.num4 div{
+	transform: rotate(-120deg);
+}
+
+.num5{
+	transform: rotate(150deg);
+}
+.num5 div{
+	transform: rotate(-150deg);
+}
+
+.num6{
+	transform: rotate(180deg);
+}
+.num6 div{
+	transform: rotate(-180deg);
+}
+
+.num7{
+	transform: rotate(210deg);
+}
+.num7 div{
+	transform: rotate(-210deg);
+}
+
+.num8{
+	transform: rotate(240deg);
+}
+.num8 div{
+	transform: rotate(-240deg);
+}
+
+.num9{
+	transform: rotate(270deg);
+}
+.num9 div{
+	transform: rotate(-270deg);
+}
+
+.num10{
+	transform: rotate(300deg);
+}
+.num10 div{
+	transform: rotate(-300deg);
+}
+
+.num11{
+	transform: rotate(330deg);
+}
+.num11 div{
+	transform: rotate(-330deg);
+}
+
+.hand{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.hand div{
+	position: absolute;
+	bottom: 50%;
+	left: 50%;
+	transform: translateX(-50%);
+	background: black;
+	
+}
+
+.sec{
+	width: 1px;
+	height: 40%;
+}
+
+.min{
+	height: 38%;
+	width: 4px;
+	border-radius: 2px;
+}
+
+.hour{
+	height: 28%;
+	width: 8px;
+	border-radius: 4px;
+}
+footer {
+    position: fixed;
+	height: 20px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color:black;
+   color:blanchedalmond;
+    text-align: center;
+            }
