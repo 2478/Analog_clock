@@ -1,4 +1,5 @@
 # Analog_clock
+<img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/bBhT59JLEVTYBuxNnv/200.webp?cid=ecf05e4711ghs690vwwp98p5qimlg6hxnorozux4ti1qynk9&rid=200.webp&ct=s">
 ***#MAR***
 
 ***#LOCKDOWN_ACTIVITY***
