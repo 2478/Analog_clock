@@ -1,6 +1,6 @@
 const secDiv = document.getElementById('sec');
 const minDiv = document.getElementById('min');
-const hourDiv = document.getElementById('hour');
+const hourDiv = document.getElementById('hour';
 
 setInterval(updateClock, 1000);
 
