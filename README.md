@@ -3,7 +3,7 @@
 
 ***#LOCKDOWN_ACTIVITY***
 
-***#CODING_SOLUTION*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+***#CODING_SOLUTION*** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 👇See the output from here 👇
 
