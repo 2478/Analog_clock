@@ -3,7 +3,7 @@
 
 ***#LOCKDOWN_ACTIVITY***
 
-***#CODING_SOLUTION***
+***#CODING_SOLUTION*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 👇See the output from here 👇
 
