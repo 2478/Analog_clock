@@ -1,10 +1,6 @@
-# Analog_clock
-<img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/bBhT59JLEVTYBuxNnv/200.webp?cid=ecf05e4711ghs690vwwp98p5qimlg6hxnorozux4ti1qynk9&rid=200.webp&ct=s">
-***#MAR***
+# Analog_clock <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
-***#LOCKDOWN_ACTIVITY***
-
-***#CODING_SOLUTION*** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/bBhT59JLEVTYBuxNnv/200.webp?cid=ecf05e4711ghs690vwwp98p5qimlg6hxnorozux4ti1qynk9&rid=200.webp&ct=s">
 
 👇See the output from here 👇
 
